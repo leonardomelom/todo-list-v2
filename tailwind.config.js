@@ -7,10 +7,15 @@ module.exports = {
       },
       colors: {
         white: {
-          200: '#F2F2F2'
+          200: '#F2F2F2',
+          500: '#FFFFFF'
         },
         gray: {
+          400: '#333333',
           500: '#262626',
+
+          700: '#1A1A1A',
+          800: '#2A2A2A',
           900: '#0D0D0D'
         },
         purple: {

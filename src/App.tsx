@@ -10,7 +10,7 @@ function App() {
     <div className="flex justify-center items-center w-full h-[200px] bg-gray-900">
       <Header/>
     </div>
-      <Input/>
+      {/* <Input/> */}
       <Tasks/>
     </div>
   )
